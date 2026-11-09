@@ -1,12 +1,16 @@
 # MPF00479852
 
-Denuncia penal (DEN 641840) contra el titular de la Fiscalía PCyF N° 20, Dr. Juan Ernesto Rozas, por incumplimiento de los deberes de funcionario público (art. 249 CP) ante la omisión de medidas probatorias elementales (pesaje del cadáver y averiguación de la expulsión del denunciante del Hospital Piñero).
+Denuncia contra el fiscal Rozas (Fiscalía PCyF Nº 20), por descartar por teléfono la denuncia de que Margarita no era alimentada y por su actuación en MPF00462972.
 
-| Fecha | Documento |
-|---|---|
-| 2020-06-11 | [Denuncia inicial contra el titular de la Fiscalía PCyF 20](2020/06/11/hilo-denuncia-contra-el-mpf.e0042.md) |
-| 2020-07-01 | [Decreto de archivo de la UIT Norte (Fiscal Cecilia Amil Martín)](2020/07/01/fiscalia_ufnorte_archivo.e0208.md) |
-| 2020-07-01 | [Trámite e intercambios ante la UIT Norte (Julieta Fiorda) y remisión a Cámara](2020/07/01/hilo-den-641840-tramite-uitnorte-fiorda.e0101.md) |
-| 2020-07-23 | [Dictamen de Revisión N° 131 - Fiscalía de Cámara Norte (Fiscal Martín Riggi)](2020/07/23/fiscalia_camara_ufnorte_dictamen_revision.e0176.md) |
-| 2020-07-24 | [Notificación resolución de Fiscalía de Cámara](2020/07/24/hilo-resolucion-de-fiscal-de-camara.e0164.md) |
-| 2020-08-03 | [Notificación y remisión de resolución en PDF](2020/08/03/hilo-denuncia-641840.e0210.md) |
+Expediente: «s/Nombre s/inf. art. 249 CP» (DEN 641840, KIWI 23009)
+
+Deriva de: [MPF00462972](https://github.com/justiciaparamargarita/mpf00462972)
+
+## Archivos
+
+- 2020-06-11 [Mail «Denuncia contra el MPF» · yo → denuncias@ (2 mensajes)](2020/06/11/hilo-denuncia-contra-el-mpf.e0042.md)
+- 2020-07-01 [Fiscalia ufnorte archivo](2020/07/01/fiscalia_ufnorte_archivo.e0208.md)
+- 2020-07-01 [Mail «Den 641840 - Trámite ante la UIT Norte (Julieta Fiorda) y remisión a Fiscalía de Cámara» · JFiorda@ → yo (7 mensajes)](2020/07/01/hilo-den-641840-tramite-uitnorte-fiorda.e0101.md)
+- 2020-07-23 [Fiscalia camara ufnorte dictamen revision](2020/07/23/fiscalia_camara_ufnorte_dictamen_revision.e0176.md)
+- 2020-07-24 [Mail «Resolución de Fiscal de Cámara» · mtome@ → yo](2020/07/24/hilo-resolucion-de-fiscal-de-camara.e0164.md)
+- 2020-08-03 [Mail «Re: Denuncia 641840» · lfpaglianiti@ → yo](2020/08/03/hilo-denuncia-641840.e0210.md)
